@@ -2,16 +2,14 @@
 
 🎓 MSc Artificial Intelligence @ BTU Cottbus  
 💼 Ex-Machine Learning & MLOps @ Hazen AI, MTailor, SAI  
-🔬 Research Interests: NLP, LLMs, RAG, Video Understanding  
-📍 Based in Germany 🇩🇪 | Open to Research/Internships
+🔬 Research Interests: NLP, LLMs, RAG, Computer Vision
 
 
 ## 🧰 Tech Stack
 `Python` `PyTorch` `TensorFlow` `LangChain` `Docker` `Kubernetes`  
 `Django` `Flask` `PostgreSQL` `Redis`
 
-## 📫 Connect with me
-- 💼 [LinkedIn](https://linkedin.com/in/hattiq)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=hattiq)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
