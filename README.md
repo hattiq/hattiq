@@ -12,7 +12,7 @@
 
 
 
-| <a href="https://github.com/hattiq/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=attiq" alt="Attiq's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hattiq" /></a> |
+| [![GitHub stats](https://github-readme-stats.vercel.app/api?username=hattiq)](https://github.com/anuraghazra/github-readme-stats) | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hattiq" /></a> |
 | ------------- | ------------- |
 
 
